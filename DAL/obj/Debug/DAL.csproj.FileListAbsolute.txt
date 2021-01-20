@@ -1,0 +1,63 @@
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DAL\bin\Debug\DAL.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DAL\bin\Debug\DAL.pdb
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DAL\bin\Debug\UTIL.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DAL\bin\Debug\UTIL.pdb
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DAL\obj\Debug\DAL.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DAL\obj\Debug\DAL.pdb
+C:\Users\Francisco\Desktop\disofidashboard\DAL\bin\Debug\DAL.dll
+C:\Users\Francisco\Desktop\disofidashboard\DAL\bin\Debug\DAL.pdb
+C:\Users\Francisco\Desktop\disofidashboard\DAL\bin\Debug\UTIL.dll
+C:\Users\Francisco\Desktop\disofidashboard\DAL\bin\Debug\UTIL.pdb
+C:\Users\Francisco\Desktop\disofidashboard\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Francisco\Desktop\disofidashboard\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\disofidashboard\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Francisco\Desktop\disofidashboard\DAL\obj\Debug\DAL.dll
+C:\Users\Francisco\Desktop\disofidashboard\DAL\obj\Debug\DAL.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DAL\bin\Debug\DAL.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DAL\bin\Debug\DAL.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DAL\bin\Debug\UTIL.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DAL\bin\Debug\UTIL.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DAL\obj\Debug\DAL.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DAL\obj\Debug\DAL.pdb
+C:\Users\FCO\Desktop\disofidashboard\DAL\bin\Debug\DAL.dll
+C:\Users\FCO\Desktop\disofidashboard\DAL\bin\Debug\DAL.pdb
+C:\Users\FCO\Desktop\disofidashboard\DAL\bin\Debug\UTIL.dll
+C:\Users\FCO\Desktop\disofidashboard\DAL\bin\Debug\UTIL.pdb
+C:\Users\FCO\Desktop\disofidashboard\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\FCO\Desktop\disofidashboard\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\FCO\Desktop\disofidashboard\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\FCO\Desktop\disofidashboard\DAL\obj\Debug\DAL.dll
+C:\Users\FCO\Desktop\disofidashboard\DAL\obj\Debug\DAL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DAL\bin\Debug\DAL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DAL\bin\Debug\DAL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DAL\bin\Debug\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DAL\bin\Debug\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DAL\obj\Debug\DAL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DAL\obj\Debug\DAL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\DAL\bin\Debug\DAL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\DAL\bin\Debug\DAL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\DAL\bin\Debug\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\DAL\bin\Debug\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\DAL\obj\Debug\DAL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\DAL\obj\Debug\DAL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\DAL\bin\Debug\DAL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\DAL\bin\Debug\DAL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\DAL\bin\Debug\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\DAL\bin\Debug\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\DAL\obj\Debug\DAL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\DAL\obj\Debug\DAL.pdb

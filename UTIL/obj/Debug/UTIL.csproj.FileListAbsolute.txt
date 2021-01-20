@@ -1,0 +1,42 @@
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\UTIL\bin\Debug\UTIL.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\UTIL\bin\Debug\UTIL.pdb
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\UTIL\obj\Debug\UTIL.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\UTIL\obj\Debug\UTIL.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\UTIL\obj\Debug\UTIL.pdb
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\UTIL\obj\Debug\UTIL.csprojAssemblyReference.cache
+C:\Users\Francisco\Desktop\disofidashboard\UTIL\bin\Debug\UTIL.dll
+C:\Users\Francisco\Desktop\disofidashboard\UTIL\bin\Debug\UTIL.pdb
+C:\Users\Francisco\Desktop\disofidashboard\UTIL\obj\Debug\UTIL.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\disofidashboard\UTIL\obj\Debug\UTIL.dll
+C:\Users\Francisco\Desktop\disofidashboard\UTIL\obj\Debug\UTIL.pdb
+C:\Users\Francisco\Desktop\disofidashboard\UTIL\obj\Debug\UTIL.csprojAssemblyReference.cache
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\UTIL\bin\Debug\UTIL.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\UTIL\bin\Debug\UTIL.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\UTIL\obj\Debug\UTIL.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\UTIL\obj\Debug\UTIL.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\UTIL\obj\Debug\UTIL.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\UTIL\obj\Debug\UTIL.csprojAssemblyReference.cache
+C:\Users\FCO\Desktop\disofidashboard\UTIL\bin\Debug\UTIL.dll
+C:\Users\FCO\Desktop\disofidashboard\UTIL\bin\Debug\UTIL.pdb
+C:\Users\FCO\Desktop\disofidashboard\UTIL\obj\Debug\UTIL.csprojAssemblyReference.cache
+C:\Users\FCO\Desktop\disofidashboard\UTIL\obj\Debug\UTIL.csproj.CoreCompileInputs.cache
+C:\Users\FCO\Desktop\disofidashboard\UTIL\obj\Debug\UTIL.dll
+C:\Users\FCO\Desktop\disofidashboard\UTIL\obj\Debug\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\UTIL\bin\Debug\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\UTIL\bin\Debug\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\UTIL\obj\Debug\UTIL.csprojAssemblyReference.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\UTIL\obj\Debug\UTIL.csproj.CoreCompileInputs.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\UTIL\obj\Debug\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\UTIL\obj\Debug\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\UTIL\bin\Debug\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\UTIL\bin\Debug\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\UTIL\obj\Debug\UTIL.csprojAssemblyReference.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\UTIL\obj\Debug\UTIL.csproj.CoreCompileInputs.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\UTIL\obj\Debug\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\UTIL\obj\Debug\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\UTIL\bin\Debug\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\UTIL\bin\Debug\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\UTIL\obj\Debug\UTIL.csprojAssemblyReference.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\UTIL\obj\Debug\UTIL.csproj.CoreCompileInputs.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\UTIL\obj\Debug\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\UTIL\obj\Debug\UTIL.pdb

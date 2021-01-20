@@ -1,0 +1,77 @@
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\BLL\bin\Debug\BLL.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\BLL\bin\Debug\BLL.pdb
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\BLL\bin\Debug\DAL.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\BLL\bin\Debug\UTIL.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\BLL\bin\Debug\DAL.pdb
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\BLL\bin\Debug\UTIL.pdb
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\BLL\obj\Debug\BLL.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\BLL\obj\Debug\BLL.pdb
+C:\Users\Francisco\Desktop\disofidashboard\BLL\bin\Debug\BLL.dll
+C:\Users\Francisco\Desktop\disofidashboard\BLL\bin\Debug\BLL.pdb
+C:\Users\Francisco\Desktop\disofidashboard\BLL\bin\Debug\DAL.dll
+C:\Users\Francisco\Desktop\disofidashboard\BLL\bin\Debug\UTIL.dll
+C:\Users\Francisco\Desktop\disofidashboard\BLL\bin\Debug\DAL.pdb
+C:\Users\Francisco\Desktop\disofidashboard\BLL\bin\Debug\UTIL.pdb
+C:\Users\Francisco\Desktop\disofidashboard\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Francisco\Desktop\disofidashboard\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\disofidashboard\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Francisco\Desktop\disofidashboard\BLL\obj\Debug\BLL.dll
+C:\Users\Francisco\Desktop\disofidashboard\BLL\obj\Debug\BLL.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\BLL\bin\Debug\BLL.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\BLL\bin\Debug\BLL.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\BLL\bin\Debug\DAL.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\BLL\bin\Debug\UTIL.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\BLL\bin\Debug\DAL.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\BLL\bin\Debug\UTIL.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\BLL\obj\Debug\BLL.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\BLL\obj\Debug\BLL.pdb
+C:\Users\FCO\Desktop\disofidashboard\BLL\bin\Debug\BLL.dll
+C:\Users\FCO\Desktop\disofidashboard\BLL\bin\Debug\BLL.pdb
+C:\Users\FCO\Desktop\disofidashboard\BLL\bin\Debug\DAL.dll
+C:\Users\FCO\Desktop\disofidashboard\BLL\bin\Debug\UTIL.dll
+C:\Users\FCO\Desktop\disofidashboard\BLL\bin\Debug\DAL.pdb
+C:\Users\FCO\Desktop\disofidashboard\BLL\bin\Debug\UTIL.pdb
+C:\Users\FCO\Desktop\disofidashboard\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\FCO\Desktop\disofidashboard\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\FCO\Desktop\disofidashboard\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\FCO\Desktop\disofidashboard\BLL\obj\Debug\BLL.dll
+C:\Users\FCO\Desktop\disofidashboard\BLL\obj\Debug\BLL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\BLL\bin\Debug\BLL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\BLL\bin\Debug\BLL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\BLL\bin\Debug\DAL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\BLL\bin\Debug\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\BLL\bin\Debug\DAL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\BLL\bin\Debug\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\BLL\obj\Debug\BLL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\BLL\obj\Debug\BLL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\BLL\bin\Debug\BLL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\BLL\bin\Debug\BLL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\BLL\bin\Debug\DAL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\BLL\bin\Debug\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\BLL\bin\Debug\DAL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\BLL\bin\Debug\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\BLL\obj\Debug\BLL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\DsStantec\BLL\obj\Debug\BLL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\BLL\bin\Debug\BLL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\BLL\bin\Debug\BLL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\BLL\bin\Debug\DAL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\BLL\bin\Debug\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\BLL\bin\Debug\DAL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\BLL\bin\Debug\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\BLL\obj\Debug\BLL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\BLL\obj\Debug\BLL.pdb

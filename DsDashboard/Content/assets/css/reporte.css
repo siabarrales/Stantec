@@ -1,0 +1,78 @@
+﻿/*little styles*/
+.list-group {
+    max-height: 200px;
+    margin-bottom: 10px;  
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+}
+input{
+    margin-bottom:10px;
+    width: 100%;
+}
+#btnGenerar {
+    width: 500px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    margin-top:15px;
+}
+ul{
+    margin-top:10px;
+}
+#tabla {
+    background: white;
+    table-layout: fixed;
+    width: 500px;
+}
+th, td {
+    
+    width: 150px;
+    word-wrap: break-word;        
+}
+#divScroll {
+    overflow: scroll;
+    height: 500px;
+    width: 100%;
+}
+#Buscar {
+    float:right;
+    width: 100%;
+}
+#Descarga{
+    width: 150px; 
+}
+#generate {
+    width: 150px;
+}
+#selectMeses {
+    width: 200px;
+       
+}
+.td-valor{
+    text-align:right;
+}
+.td-valor-neg {
+    text-align: right;
+    color: #ff5b57;
+}
+.th-valor {
+    text-align: right;
+}
+#strong-actual {
+    color: #00acac;
+}
+#strong-anterior {
+    color: #ff5b57;
+}
+#strong-variacion {
+    color: #337ab7;
+}
+#ListasDiv {    
+    display:none;
+}
+#export {
+    margin-left: 10px;
+    
+}
+
+
+

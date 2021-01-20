@@ -1,0 +1,45 @@
+C:\Trabajo\00. Disofi\0. Dashboard\disofidashboard\DAL\bin\Release\DAL.dll
+C:\Trabajo\00. Disofi\0. Dashboard\disofidashboard\DAL\bin\Release\DAL.pdb
+C:\Trabajo\00. Disofi\0. Dashboard\disofidashboard\DAL\bin\Release\UTIL.dll
+C:\Trabajo\00. Disofi\0. Dashboard\disofidashboard\DAL\bin\Release\UTIL.pdb
+C:\Trabajo\00. Disofi\0. Dashboard\disofidashboard\DAL\obj\Release\DAL.dll
+C:\Trabajo\00. Disofi\0. Dashboard\disofidashboard\DAL\obj\Release\DAL.pdb
+C:\Trabajo\00. Disofi\0. Dashboard\disofidashboard\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Trabajo\00. Disofi\0. Dashboard\disofidashboard\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Trabajo\00. Disofi\0. Dashboard\disofidashboard\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DAL\bin\Release\DAL.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DAL\bin\Release\DAL.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DAL\bin\Release\UTIL.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DAL\bin\Release\UTIL.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DAL\obj\Release\DAL.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DAL\obj\Release\DAL.pdb
+C:\Users\FCO\Desktop\disofidashboard\DAL\bin\Release\DAL.dll
+C:\Users\FCO\Desktop\disofidashboard\DAL\bin\Release\DAL.pdb
+C:\Users\FCO\Desktop\disofidashboard\DAL\bin\Release\UTIL.dll
+C:\Users\FCO\Desktop\disofidashboard\DAL\bin\Release\UTIL.pdb
+C:\Users\FCO\Desktop\disofidashboard\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\FCO\Desktop\disofidashboard\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\FCO\Desktop\disofidashboard\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\FCO\Desktop\disofidashboard\DAL\obj\Release\DAL.dll
+C:\Users\FCO\Desktop\disofidashboard\DAL\obj\Release\DAL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DAL\bin\Release\DAL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DAL\bin\Release\DAL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DAL\bin\Release\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DAL\bin\Release\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DAL\obj\Release\DAL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DAL\obj\Release\DAL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\DAL\bin\Release\DAL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\DAL\bin\Release\DAL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\DAL\bin\Release\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\DAL\bin\Release\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\DAL\obj\Release\DAL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\DAL\obj\Release\DAL.pdb

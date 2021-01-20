@@ -1,0 +1,29 @@
+C:\Trabajo\00. Disofi\0. Dashboard\disofidashboard\UTIL\bin\Release\UTIL.dll
+C:\Trabajo\00. Disofi\0. Dashboard\disofidashboard\UTIL\bin\Release\UTIL.pdb
+C:\Trabajo\00. Disofi\0. Dashboard\disofidashboard\UTIL\obj\Release\UTIL.csprojResolveAssemblyReference.cache
+C:\Trabajo\00. Disofi\0. Dashboard\disofidashboard\UTIL\obj\Release\UTIL.dll
+C:\Trabajo\00. Disofi\0. Dashboard\disofidashboard\UTIL\obj\Release\UTIL.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\UTIL\bin\Release\UTIL.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\UTIL\bin\Release\UTIL.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\UTIL\obj\Release\UTIL.csprojAssemblyReference.cache
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\UTIL\obj\Release\UTIL.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\UTIL\obj\Release\UTIL.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\UTIL\obj\Release\UTIL.pdb
+C:\Users\FCO\Desktop\disofidashboard\UTIL\bin\Release\UTIL.dll
+C:\Users\FCO\Desktop\disofidashboard\UTIL\bin\Release\UTIL.pdb
+C:\Users\FCO\Desktop\disofidashboard\UTIL\obj\Release\UTIL.csprojAssemblyReference.cache
+C:\Users\FCO\Desktop\disofidashboard\UTIL\obj\Release\UTIL.csproj.CoreCompileInputs.cache
+C:\Users\FCO\Desktop\disofidashboard\UTIL\obj\Release\UTIL.dll
+C:\Users\FCO\Desktop\disofidashboard\UTIL\obj\Release\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\UTIL\bin\Release\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\UTIL\bin\Release\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\UTIL\obj\Release\UTIL.csprojAssemblyReference.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\UTIL\obj\Release\UTIL.csproj.CoreCompileInputs.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\UTIL\obj\Release\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\UTIL\obj\Release\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\UTIL\bin\Release\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\UTIL\bin\Release\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\UTIL\obj\Release\UTIL.csprojAssemblyReference.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\UTIL\obj\Release\UTIL.csproj.CoreCompileInputs.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\UTIL\obj\Release\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\stantec_reportecomp\UTIL\obj\Release\UTIL.pdb

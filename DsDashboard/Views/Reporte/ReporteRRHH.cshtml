@@ -1,0 +1,271 @@
+﻿@using UTIL.Models;
+@{
+    ViewBag.Title = "ReporteRRHH";
+    Layout = null;
+    List<VariableModel> variables = ViewBag.variables;
+    List<VariableModel> variablesReporte = ViewBag.variablesReporte;
+    List<PeriodoModel> periodo = ViewBag.periodo;
+    int tipo = ViewBag.tipo;
+
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title - Stantec</title>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" />
+    <meta content="" name="description" />
+    <meta content="" name="author" />
+    <meta content="" name="author" />
+
+    <!-- ================== BEGIN BASE CSS STYLE ================== -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+    <link href="~/Content/assets/css/default/app.min.css" rel="stylesheet" />
+    <!-- ================== END BASE CSS STYLE ================== wasap-->
+    <link href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/assets/plugins/DataTables/media/js/jquery.dataTables.min.js" rel="stylesheet" type="text/css" />
+    <link href="~/Content/assets/plugins/DataTables/media/css/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <!-- ================== BEGIN PAGE LEVEL CSS STYLE ================== -->
+    <link href="~/Content/assets/plugins/jvectormap-next/jquery-jvectormap.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/nvd3/build/nv.d3.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet" />
+    <script src="~/Content/assets/js/app.min.js"></script>
+    <script src="~/Content/assets/js/theme/default.min.js"></script>
+    <!-- ================== BEGIN PAGE LEVEL STYLE ================== -->
+    <link href="~/Content/assets/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker3.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/ion-rangeslider/css/ion.rangeSlider.min.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/bootstrap-timepicker/css/bootstrap-timepicker.min.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/tag-it/css/jquery.tagit.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/select2/dist/css/select2.min.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/eonasdan-bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.min.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/bootstrap-colorpalette/css/bootstrap-colorpalette.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/jquery-simplecolorpicker/jquery.simplecolorpicker.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/jquery-simplecolorpicker/jquery.simplecolorpicker-fontawesome.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/jquery-simplecolorpicker/jquery.simplecolorpicker-glyphicons.css" rel="stylesheet" />
+    <!-- ================== END PAGE LEVEL STYLE ================== -->
+    <!-- ================== BEGIN PAGE LEVEL JS ================== -->    
+    <script src="~/Content/assets/plugins/jquery-migrate/dist/jquery-migrate.min.js"></script>
+    <script src="~/Content/assets/plugins/moment/moment.js"></script>
+    <script src="~/Content/assets/plugins/"></script>
+    <script src="~/Content/assets/plugins/bootstrap-datepicker/dist/js/bootstrap-datepicker.js"></script>
+    <script src="~/Content/assets/plugins/ion-rangeslider/js/ion.rangeSlider.min.js"></script>
+    <script src="~/Content/assets/plugins/bootstrap-colorpicker/dist/js/bootstrap-colorpicker.min.js"></script>
+    <script src="~/Content/assets/plugins/jquery.maskedinput/src/jquery.maskedinput.js"></script>
+    <script src="~/Content/assets/plugins/bootstrap-timepicker/js/bootstrap-timepicker.min.js"></script>
+    <script src="~/Content/assets/plugins/pwstrength-bootstrap/dist/pwstrength-bootstrap.min.js"></script>
+    <script src="~/Content/assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
+    <script src="~/Content/assets/plugins/tag-it/js/tag-it.min.js"></script>
+    <script src="~/Content/assets/plugins/bootstrap-daterangepicker/daterangepicker.js"></script>
+    <script src="~/Content/assets/plugins/select2/dist/js/select2.min.js"></script>
+    <script src="~/Content/assets/plugins/eonasdan-bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js"></script>
+    <script src="~/Content/assets/plugins/bootstrap-show-password/dist/bootstrap-show-password.js"></script>
+    <script src="~/Content/assets/plugins/bootstrap-colorpalette/js/bootstrap-colorpalette.js"></script>
+    <script src="~/Content/assets/plugins/jquery-simplecolorpicker/jquery.simplecolorpicker.js"></script>
+    <script src="~/Content/assets/plugins/clipboard/dist/clipboard.min.js"></script>
+    <!-- ================== END PAGE LEVEL JS ================== -->
+    <script src="~/WebJs/Reporte/InformacionVentas.js"></script>
+    <script src="~/WebJS/Base.js"></script>
+    <script src="~/WebJS/Reporte/Buscador.js"></script>
+    <link href="~/Content/assets/css/reporte.css" rel="stylesheet" />
+    <!-- ================== END PAGE LEVEL CSS STYLE ================== -->
+
+</head>
+<body>
+    <!-- begin #page-loader -->
+    <div id="page-loader" class="fade show"><span class="spinner"></span></div>
+    <!-- end #page-loader -->
+    <!-- begin #page-container -->
+    <div id="page-container" class="page-container fade page-without-sidebar page-header-fixed page-with-top-menu">
+        <input type="hidden" id="urlSeleccionaEmpresa" value="@Url.Action("SeleccionaEmpresa", "Login" )" />
+        <input type="hidden" id="urlHome" value="@Url.Action("Index", "Home" )" />
+        <!-- begin #header -->
+        <div id="header" class="header navbar-default">
+            <!-- begin navbar-header -->
+            <!-- Cambiar nombres de navegacion!! -->
+            <div class="navbar-header">
+                <a href="@Url.Action("InformacionVentas", "Reporte")" class="navbar-brand"><span class="navbar-logo"></span><b>STANTEC</b></a>
+                <button type="button" class="navbar-toggle" data-click="top-menu-toggled">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <!-- end navbar-header -->
+            <!-- begin header-nav -->
+            <ul class="navbar-nav navbar-right">
+                <li class="dropdown navbar-user">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">
+
+                        <h4 class="d-none d-md-inline">Opciones</h4> <b class="caret"></b>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right">
+                        <a href="@Url.Action("LogOut", "Login")" class="dropdown-item">Cerrar Sesion</a>
+                    </div>
+                </li>
+            </ul>
+            <!-- end header-nav -->
+        </div>
+        <!-- end #header -->
+
+        <div class="container-fluid">
+            <h1>
+                Reporte Comparativo
+                <small class="text-muted">RRHH</small>
+            </h1>
+            <p>Reporte que compara datos y variables de un determinado mes con el anterior.</p>
+            <hr />
+            <!--SELECT MES-->
+            <h5>Filtrar reporte</h5>
+            <div class="dropdown">
+                <!--GET PERIODO // En la base de datos hay que actualizar el periodo de la bd de softland. es a 24 meses-->
+                <select class="browser-default custom-select " id="selectMeses" onchange="valor(this)">
+                    @for (int i = 0; i < periodo.Count; i++)
+                    {
+                        if (@periodo[i].mes == "Enero" || @periodo[i].id == 1)
+                        {
+                            <optgroup label="@periodo[i].ano"></optgroup>
+                        }
+                        <option value="@periodo[i].id">@periodo[i].mes - @periodo[i].ano</option>
+
+                    }
+                </select>
+            </div>
+            <br /><br />
+            <!--Listas-->
+            @if (tipo == 2)
+            {
+                <div class="row" id="ListasDiv">
+                    <div class="col-sm">
+                        <div class="row">
+                            <div class="col-s">
+                                <h4>Variables Softland</h4>
+                            </div>
+                            <div class="col-s">
+                                <input class="form-control form-control-sm" type="text" id="myInput" onkeyup="Buscar('myInput','list-variables')" placeholder="Buscar .." title="Type in a name">
+                            </div>
+                        </div>
+                        <ul class="list-group" id="list-variables">
+                            @for (var i = 0; i < variables.Count; i++)
+                            {
+                                <li class="list-group-item list-group-item-light"><a href="#">@variables[i].codVariable - @variables[i].descripcion</a></li>
+                            }
+                        </ul>
+                    </div>
+                    <div class="col-sm">
+                        <div class="row">
+                            <div class="col-s">
+                                <h4>Variables Reporte</h4>
+                            </div>
+                            <div class="col-s">
+                                <input class="form-control form-control-sm" type="text" id="myInput2" onkeyup="Buscar('myInput2','list-reporte')" placeholder="Buscar .." title="Type in a name">
+                            </div>
+                        </div>
+                        <ul class="list-group" id="list-reporte">
+                            @for (var i = 0; i < variablesReporte.Count; i++)
+                            {
+                                <li class="list-group-item list-group-item-light"><a href="#">@variablesReporte[i].codVariable - @variablesReporte[i].descripcion</a></li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            }
+            else
+            {
+                <div class="row">
+                    <div class="col-sm">
+                        <div class="row">
+                            <div class="col-s">
+                                <h4>Variables Softland</h4>
+                            </div>
+                            <div class="col-s">
+                                <input class="form-control form-control-sm" type="text" id="myInput" onkeyup="Buscar('myInput','list-variables')" placeholder="Buscar .." title="Type in a name">
+                            </div>
+                        </div>
+                        <ul class="list-group" id="list-variables">
+                            @for (var i = 0; i < variables.Count; i++)
+                            {
+                                <li class="list-group-item list-group-item-light"><a href="#">@variables[i].codVariable - @variables[i].descripcion</a></li>
+                            }
+                        </ul>
+                    </div>
+                    <div class="col-sm">
+                        <div class="row">
+                            <div class="col-s">
+                                <h4>Variables Reporte</h4>
+                            </div>
+                            <div class="col-s">
+                                <input class="form-control form-control-sm" type="text" id="myInput2" onkeyup="Buscar('myInput2','list-reporte')" placeholder="Buscar .." title="Type in a name">
+                            </div>
+                        </div>
+                        <ul class="list-group" id="list-reporte">
+                            @for (var i = 0; i < variablesReporte.Count; i++)
+                            {
+                                <li class="list-group-item list-group-item-light"><a href="#">@variablesReporte[i].codVariable - @variablesReporte[i].descripcion</a></li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            }
+
+            <button id="btnGenerar" type="button" class="btn btn-success" onclick="location.reload()">Generar Reporte</button>
+            <hr />
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm">
+                        <h2 id="textoReporteMes"></h2>
+                    </div>
+                    <div class="col-sm">
+                        <input id="Buscar" class="form-control col-md-4 light-table-filter" data-table="order-table" type="text" placeholder="Buscar .." />
+                    </div>
+
+                </div>
+                <div id="divScroll">
+                    <table id="tabla" border="1" class="table order-table table-hover">
+                        <caption>Previsualización reporte</caption>
+                        <thead>
+                            <tr>
+                                <th class="acciones">Variación</th>
+                                <th>Num Ficha</th>
+                                <th>Nombre</th>
+                                <th>RUT</th>
+                            </tr>
+                        <tbody>                            
+                        </tbody>
+                    </table>
+                </div>
+                <hr />
+                <div id="botones">
+                    <button id="generate" type="button" class="btn btn-success">EXCEL</button>
+                </div>
+            </div>
+        </div>
+        <hr />
+        <br />
+        <br />
+        <!-- ================== BEGIN BASE JS ================== -->
+        <!-- ================== END BASE JS ================== -->
+        <!-- ================== BEGIN PAGE LEVEL JS ================== -->
+        <script src="~/Content/assets/js/external/jspdf.min.js"></script>
+        <script src="~/Content/assets/js/external/jspdf.plugin.autotable.js"></script>
+        <script src="~/Content/assets/js/external/jszip.js"></script>
+        <script src="~/Content/assets/js/external/FileSaver.js"></script>
+        <script src="~/WebJS/Reporte/excel-gen.js"></script>
+        <script src="~/WebJS/Reporte/tableHTMLExport.js"></script>
+        <script src="~/Content/assets/plugins/d3/d3.min.js"></script>
+        <script src="~/Content/assets/plugins/nvd3/build/nv.d3.js"></script>
+        <script src="~/Content/assets/plugins/jvectormap-next/jquery-jvectormap.min.js"></script>
+        <script src="~/Content/assets/plugins/jvectormap-next/jquery-jvectormap-world-mill.js"></script>
+        <script src="~/Content/assets/plugins/apexcharts/dist/apexcharts.min.js"></script>
+        <script src="~/Content/assets/plugins/moment/moment.js"></script>
+        <script src="~/Content/assets/plugins/bootstrap-daterangepicker/daterangepicker.js"></script>
+        <script src="~/Content/assets/js/demo/dashboard-v3.js"></script>
+        <script src="~/Content/assets/js/demo/chart-apex.demo.js"></script>
+        <script src="~/Content/assets/plugins/DataTables/media/js/jquery.dataTables.min.js"></script>
+        <!-- ================== END PAGE LEVEL JS ================== -->
+
+</body>
+</html>

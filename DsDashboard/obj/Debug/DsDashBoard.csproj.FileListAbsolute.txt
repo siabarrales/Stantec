@@ -1,0 +1,484 @@
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\DsDashBoard.dll.config
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\DsDashBoard.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\DsDashBoard.pdb
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\csc.exe
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\csc.exe.config
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\csc.rsp
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\csi.exe
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\csi.exe.config
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\csi.rsp
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.AppContext.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.Console.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.IO.Compression.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.Security.Claims.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.ValueTuple.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\vbc.exe
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\vbc.exe.config
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\vbc.rsp
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\Antlr3.Runtime.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\Newtonsoft.Json.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\System.Web.Helpers.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\System.Web.Mvc.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\System.Web.Optimization.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\System.Web.Razor.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\System.Web.WebPages.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\WebGrease.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\System.Web.Helpers.xml
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\System.Web.Mvc.xml
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\System.Web.Optimization.xml
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\System.Web.Razor.xml
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\System.Web.WebPages.xml
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\Newtonsoft.Json.xml
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\Antlr3.Runtime.pdb
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\es\System.Web.Razor.resources.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\obj\Debug\DsDashBoard.csprojAssemblyReference.cache
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\obj\Debug\DsDashBoard.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\obj\Debug\DsDashBoard.csproj.CopyComplete
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\obj\Debug\DsDashBoard.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\obj\Debug\DsDashBoard.pdb
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\BLL.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\UTIL.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\DAL.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\BLL.pdb
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\UTIL.pdb
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\DAL.pdb
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\EPPlus.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\System.IO.Packaging.dll
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\EPPlus.xml
+C:\Users\Desarrollo-PC\source\repos\DsDashBoard\DsDashBoard\bin\System.IO.Packaging.xml
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\DsDashBoard.dll.config
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\DsDashBoard.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\DsDashBoard.pdb
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\csc.exe
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\csc.exe.config
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\csc.rsp
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\csi.exe
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\csi.exe.config
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\csi.rsp
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.AppContext.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Console.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.IO.Compression.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Claims.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.ValueTuple.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\vbc.exe
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\vbc.exe.config
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\vbc.rsp
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\Antlr3.Runtime.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\BLL.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\EPPlus.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\Newtonsoft.Json.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\System.IO.Packaging.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Helpers.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Mvc.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Optimization.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Razor.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\System.Web.WebPages.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\UTIL.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\WebGrease.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\DAL.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\BLL.pdb
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\UTIL.pdb
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\EPPlus.xml
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\System.IO.Packaging.xml
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Helpers.xml
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Mvc.xml
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Optimization.xml
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Razor.xml
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\System.Web.WebPages.xml
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\Newtonsoft.Json.xml
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\Antlr3.Runtime.pdb
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\DAL.pdb
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.Razor.resources.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.csprojAssemblyReference.cache
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.csproj.CopyComplete
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.dll
+C:\Users\Francisco\Desktop\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\DsDashBoard.dll.config
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\DsDashBoard.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\DsDashBoard.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\csc.exe
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\csc.exe.config
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\csc.rsp
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\csi.exe
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\csi.exe.config
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\csi.rsp
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.AppContext.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Console.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.IO.Compression.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Claims.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.ValueTuple.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\vbc.exe
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\vbc.exe.config
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\vbc.rsp
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\Antlr3.Runtime.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\BLL.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\EPPlus.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\Newtonsoft.Json.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\System.IO.Packaging.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Helpers.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Mvc.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Optimization.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Razor.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\System.Web.WebPages.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\UTIL.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\WebGrease.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\DAL.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\BLL.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\UTIL.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\EPPlus.xml
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\System.IO.Packaging.xml
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Helpers.xml
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Mvc.xml
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Optimization.xml
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Razor.xml
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\System.Web.WebPages.xml
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\Newtonsoft.Json.xml
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\Antlr3.Runtime.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\DAL.pdb
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.Razor.resources.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.csprojAssemblyReference.cache
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.csproj.CopyComplete
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.dll
+C:\Users\Desarrollo-PC\Desktop\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.pdb
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\DsDashBoard.dll.config
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\DsDashBoard.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\DsDashBoard.pdb
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\csc.exe
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\csc.exe.config
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\csc.rsp
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\csi.exe
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\csi.exe.config
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\csi.rsp
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.AppContext.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Console.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.IO.Compression.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.IO.Pipes.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Claims.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.ValueTuple.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Xml.XPath.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\vbc.exe
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\vbc.exe.config
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\vbc.rsp
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\VBCSCompiler.exe
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\Antlr3.Runtime.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\BLL.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\EPPlus.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\Newtonsoft.Json.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\System.IO.Packaging.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Helpers.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Mvc.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Optimization.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Razor.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\System.Web.WebPages.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\UTIL.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\WebGrease.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\DAL.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\BLL.pdb
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\UTIL.pdb
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\EPPlus.xml
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\System.IO.Packaging.xml
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Helpers.xml
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Mvc.xml
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Optimization.xml
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\System.Web.Razor.xml
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\System.Web.WebPages.xml
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\Newtonsoft.Json.xml
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\Antlr3.Runtime.pdb
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\DAL.pdb
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.Helpers.resources.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.Mvc.resources.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.Optimization.resources.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.Razor.resources.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.WebPages.resources.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.csprojAssemblyReference.cache
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.csproj.CoreCompileInputs.cache
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.csproj.CopyComplete
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.pdb
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\ClosedXML.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\DocumentFormat.OpenXml.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\ExcelNumberFormat.dll
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\ClosedXML.pdb
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\ClosedXML.xml
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\DocumentFormat.OpenXml.xml
+C:\Users\FCO\Desktop\disofidashboard\DsDashBoard\bin\ExcelNumberFormat.xml
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\DsDashBoard.dll.config
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\DsDashBoard.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\DsDashBoard.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\csc.exe
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\csc.exe.config
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\csc.rsp
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\csi.exe
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\csi.exe.config
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\csi.rsp
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.AppContext.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.Console.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.IO.Compression.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.IO.Pipes.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Claims.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.ValueTuple.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.Xml.XPath.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\vbc.exe
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\vbc.exe.config
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\vbc.rsp
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\VBCSCompiler.exe
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\Antlr3.Runtime.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\BLL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\ClosedXML.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\DocumentFormat.OpenXml.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\EPPlus.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\ExcelNumberFormat.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\Newtonsoft.Json.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\System.IO.Packaging.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\System.Web.Helpers.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\System.Web.Mvc.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\System.Web.Optimization.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\System.Web.Razor.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\System.Web.WebPages.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\UTIL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\WebGrease.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\DAL.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\BLL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\UTIL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\ClosedXML.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\ClosedXML.xml
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\DocumentFormat.OpenXml.xml
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\EPPlus.xml
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\ExcelNumberFormat.xml
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\System.IO.Packaging.xml
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\System.Web.Helpers.xml
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\System.Web.Mvc.xml
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\System.Web.Optimization.xml
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\System.Web.Razor.xml
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\System.Web.WebPages.xml
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\Newtonsoft.Json.xml
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\Antlr3.Runtime.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\DAL.pdb
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\es\System.Web.Helpers.resources.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\es\System.Web.Mvc.resources.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\es\System.Web.Optimization.resources.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\es\System.Web.Razor.resources.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\es\System.Web.WebPages.resources.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.csprojAssemblyReference.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.csproj.CoreCompileInputs.cache
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.csproj.CopyComplete
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.dll
+C:\Users\siaba\OneDrive\Documentos\Disofi Shits\Projects Repositorio Local\disofidashboard\DsDashBoard\obj\Debug\DsDashBoard.pdb
